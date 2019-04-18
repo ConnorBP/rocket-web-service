@@ -1,6 +1,6 @@
 # Simple rocket.rs Webservice 🦀
 
-This is a simple hello world web service written in rust with the [rocket.rs](rocket.rs) web service library (synchronous).
+This is a simple hello world web service written in rust with the [rocket.rs](http://rocket.rs) web service library (synchronous).
 
 ## What it can do
 
